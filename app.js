@@ -56,7 +56,10 @@ switch (currentDay) {
     break;
   case 6:
     console.log('შაბათი');
-    break;
+	break;
+  
+  default:
+    console.log ('შეცდომა')
 }
 
 
